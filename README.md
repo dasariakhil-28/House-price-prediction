@@ -41,7 +41,8 @@ Random Forest
 XGBoost
 
 ## Evaluation Metric
-
+pip install -r requirements.txt
+python main.py
 RMSE (Root Mean Square Error)
 
 ## Output
